@@ -1,0 +1,38 @@
+.caja{
+  width: 100px;
+  height: 100px;
+  background: #1acecb;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: 10px;
+  display: block;
+}
+
+.cajaG{
+  width: 360px;
+  height: 130px;
+  background: #1acecb;
+  border: 1px solid black;
+  padding-top: 10px;
+  display: block;
+}
+
+.cajaL{
+  width: 100px;
+  height: 100px;
+  background: #1acecb;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.cajaIn{
+  width: 100px;
+  height: 100px;
+  background: #1acecb;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: 10px;
+  display: inline-block;
+}
